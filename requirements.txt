@@ -16,3 +16,5 @@ tgcrypto
 aiohttp
 yarl
 mega.py
+python-nmap
+
